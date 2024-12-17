@@ -94,16 +94,22 @@ The repository contains the following files:
 **Key Insights and Results**
 
 Top Influencing Features: Features like the cost for two, location, online delivery options, and restaurant type were found to have a significant impact on ratings.
+
 Sentiment Trends: Restaurants with more positive reviews tended to have higher ratings.
+
 Location-Based Preferences: Certain areas of Bengaluru exhibited strong preferences for specific cuisines and dining styles (e.g., vegetarian options in certain regions).
+
 The predictive models achieved reasonable accuracy in estimating restaurant ratings, and sentiment analysis helped correlate review sentiments with restaurant performance.
 
 ---
 
 **Future Work**
 Advanced Sentiment Analysis: Implement deep learning models (e.g., LSTM) for more accurate sentiment analysis.
+
 Deployment: Deploy the rating prediction model as a web service or tool for restaurant businesses.
+
 Expanding the Dataset: Include reviews from other cities to make the analysis more comprehensive.
+
 Real-Time Data: Integrate real-time data to provide up-to-date insights for restaurants.
 
 **Acknowledgements**
