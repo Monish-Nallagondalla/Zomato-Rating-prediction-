@@ -91,7 +91,7 @@ The repository contains the following files:
   
 ---
 
-**Key Insights and Results**
+## **Key Insights and Results**
 
 Top Influencing Features: Features like the cost for two, location, online delivery options, and restaurant type were found to have a significant impact on ratings.
 
@@ -103,7 +103,7 @@ The predictive models achieved reasonable accuracy in estimating restaurant rati
 
 ---
 
-**Future Work**
+## **Future Work**
 Advanced Sentiment Analysis: Implement deep learning models (e.g., LSTM) for more accurate sentiment analysis.
 
 Deployment: Deploy the rating prediction model as a web service or tool for restaurant businesses.
@@ -112,16 +112,16 @@ Expanding the Dataset: Include reviews from other cities to make the analysis mo
 
 Real-Time Data: Integrate real-time data to provide up-to-date insights for restaurants.
 
-**Acknowledgements**
+## **Acknowledgements**
 This project was completed as part of my MSc dissertation, and I would like to express my gratitude to my supervisors and colleagues for their valuable support and guidance throughout the process.
 
 ---
-**License**
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-**Contact**
+## **Contact**
 For any queries or collaboration, feel free to reach out:
 
 Name: Monish Nallagondalla
