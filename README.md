@@ -1,6 +1,3 @@
-EADME.md
-markdown
-Copy code
 # Zomato Rating Prediction and Sentiment Analysis
 
 This project, developed as part of my MSc dissertation, focuses on predicting restaurant ratings and performing sentiment analysis on the Zomato dataset. The project aims to understand factors influencing restaurant ratings and analyze restaurant trends across Bengaluru, India's IT capital.
@@ -85,34 +82,33 @@ The repository contains the following files:
    ```bash
    git clone https://github.com/Monish-Nallagondalla/Zomato-Rating-prediction-.git
    cd Zomato-Rating-prediction-
-Install Dependencies: Install the required libraries using pip:
+   
+2. **Install Dependencies**: Install the required libraries using pip:
+  ```bash
+  pip install pandas numpy matplotlib seaborn scikit-learn nltk textblob
+  ```
+3.Run the Jupyter Notebook: Open the notebook zomato_12_11.ipynb in Jupyter Notebook
+  
+---
 
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn scikit-learn nltk textblob
-Run the Jupyter Notebook: Open the notebook zomato_12_11.ipynb in Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-Key Insights and Results
+**Key Insights and Results**
 Top Influencing Features: Features like the cost for two, location, online delivery options, and restaurant type were found to have a significant impact on ratings.
 Sentiment Trends: Restaurants with more positive reviews tended to have higher ratings.
 Location-Based Preferences: Certain areas of Bengaluru exhibited strong preferences for specific cuisines and dining styles (e.g., vegetarian options in certain regions).
 The predictive models achieved reasonable accuracy in estimating restaurant ratings, and sentiment analysis helped correlate review sentiments with restaurant performance.
-
-Future Work
+---
+**Future Work**
 Advanced Sentiment Analysis: Implement deep learning models (e.g., LSTM) for more accurate sentiment analysis.
 Deployment: Deploy the rating prediction model as a web service or tool for restaurant businesses.
 Expanding the Dataset: Include reviews from other cities to make the analysis more comprehensive.
 Real-Time Data: Integrate real-time data to provide up-to-date insights for restaurants.
-Acknowledgements
+**Acknowledgements**
 This project was completed as part of my MSc dissertation, and I would like to express my gratitude to my supervisors and colleagues for their valuable support and guidance throughout the process.
-
-License
+---
+**License**
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
+---
+**Contact**
 For any queries or collaboration, feel free to reach out:
 
 Name: Monish Nallagondalla
